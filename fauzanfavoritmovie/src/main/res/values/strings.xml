@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Fauzan Favorit Movie</string>
+    <string name="section_format">Hello Semua: %1$d</string>
+    <string name="cari">Cari</string>
+    <string name="nama_film">Nama Film</string>
+    <string name="tanggal_rilis">tanggal rilis</string>
+    <string name="rating">Rating</string>
+    <string name="deskripsi">Deskripsi</string>
+    <string name="judul_film">Judul Film</string>
+    <string name="bahasa">Bahasa</string>
+    <string name="refresh">Refresh</string>
+    <string name="tayang">Tayang</string>
+    <string name="segera">Segera</string>
+    <string name="cari_film">Cari Film</string>
+    <string name="bahasa_film">en-US</string>
+    <string name="url_base">https://api.themoviedb.org</string>
+    <string name="favorit">Favorit</string>
+    <string name="home">Home</string>
+</resources>

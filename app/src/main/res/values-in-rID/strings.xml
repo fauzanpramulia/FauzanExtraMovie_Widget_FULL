@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Fauzan Extra Movie</string>
+    <string name="search_hint">Masukkan Nama Movie</string>
+    <string name="section_format">Hello Semua: %1$d</string>
+    <string name="cari">Cari</string>
+    <string name="nama_film">Nama Film</string>
+    <string name="tanggal_rilis">tanggal rilis</string>
+    <string name="rating">Rating</string>
+    <string name="deskripsi">Deskripsi</string>
+    <string name="judul_film">Judul Film</string>
+    <string name="bahasa">Ganti Bahasa</string>
+    <string name="refresh">Refresh</string>
+    <string name="tayang">Tayang</string>
+    <string name="segera">Segera</string>
+    <string name="cari_film">Cari Film</string>
+    <string name="bahasa_film">en-US</string>
+</resources>

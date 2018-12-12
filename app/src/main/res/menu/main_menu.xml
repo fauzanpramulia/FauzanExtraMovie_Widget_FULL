@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!--<item-->
+        <!--android:id="@+id/menu_refresh"-->
+        <!--android:icon="@drawable/ic_refresh_black_24dp"-->
+        <!--android:title="@string/refresh"-->
+        <!--app:showAsAction="always" />-->
+    <item
+        android:id="@+id/favorit"
+        android:icon="@drawable/ic_refresh_black_24dp"
+        android:title="@string/favorit"
+        />
+    <item
+        android:id="@+id/home"
+        android:icon="@drawable/ic_refresh_black_24dp"
+        android:title="@string/home"
+        />
+    <item
+        android:id="@+id/menu_language"
+        android:icon="@drawable/ic_language_black_24dp"
+        android:title="@string/bahasa" />
+    <item
+        android:id="@+id/settings"
+        android:icon="@drawable/ic_refresh_black_24dp"
+        android:title="@string/setting"
+        />
+</menu>

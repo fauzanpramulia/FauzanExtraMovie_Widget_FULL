@@ -1,0 +1,4 @@
+#Fri Nov 30 16:32:25 ICT 2018
+base.0=E\:\\Aplication\\__PROJECT_ANDROID_STUDIO\\DICODING\\Fauzan Extra Movie Provider\\favoritaplicationmovie\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
